@@ -1,7 +1,7 @@
 # Learn Code!! &nbsp; [![GitHub followers](https://img.shields.io/github/followers/ilearn-code.svg?style=social&label=Followers)](https://github.com/ilearn-code?tab=followers)  <img align="right" src="https://profile-counter.glitch.me/ilearn-code/count.svg" />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=63C5DA&size=30&lines=Hey!+It's+Satyam!;I'm+a+learning+developer...;I'm+a+CRAZY+Badminton+Player;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
-## Here's some fun facts about me: <img width="120" align="right" src="https://user-images.githubusercontent.com/83504276/146778999-93e901fd-80eb-4118-8a0d-39df011e32b4.png">
+## Here's some fun facts about me:
 
   -  **I am a ***Coder***⚡🧙🏻‍♂️**
   -  **I'm a enthusiastic web designer👩🏻‍💻**
