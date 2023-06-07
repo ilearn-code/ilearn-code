@@ -4,8 +4,8 @@
 ## Here's some fun facts about me:
 
   -  **I am a ***Coder***⚡🧙🏻‍♂️**
-  -  **I'm a enthusiastic web designer👩🏻‍💻**
-  -  **I am a true Astronomy lover 🔬**
+  -  **I'm a enthusiastic Web Developer and Android Developer👩🏻‍💻**
+  -  **I am a true Chess lover ♟️**
   -  **I'm eager to Learn and udertake new challenges 🌊**
 
 <hr><br>
