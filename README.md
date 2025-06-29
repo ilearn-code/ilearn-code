@@ -56,5 +56,5 @@ Hello there! 👋 I'm thrilled to have you here. Explore my repositories, projec
 
 ## 🤝 Connect with Me
 - 📧 Email: satyamyadavv931@gmail.com  
-- 🌐 Website: [](https://satyamay.tech/)
+- 🌐 Website: [satyamay.tech](https://satyamay.tech/)
 
